@@ -26,7 +26,7 @@ alert("you have achieved a new highscore")
 }
 else
 {
-alert("try harder noob + cope + ratio")
+alert("try harder noob + cope + ratio + yo mama a hoe")
 }
 
   highscores.unshift(score);
